@@ -37,7 +37,7 @@ Project 1 is a **conceptual-design project only**; no database implementation or
 
 For the full design assumptions, entity/relationship descriptions, cardinalities, and query coverage, see:
 
-[**Project 1 README**](./Project1/README.md)
+[**Project 1 README**]([./Project1/README.md](https://github.com/Deli0926/CSE4110-Database_Systems/blob/main/Project%201/README.md))
 
 ---
 
