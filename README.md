@@ -35,9 +35,7 @@ The E-R model was designed to support business questions such as:
 
 Project 1 is a **conceptual-design project only**; no database implementation or SQL code is required.
 
-For the full design assumptions, entity/relationship descriptions, cardinalities, and query coverage, see:
-
-[**Project 1 README**](./Project 1/README.md)
+For the full design assumptions, entity/relationship descriptions, cardinalities, and query coverage, see: **Project 1 README**
 
 ---
 
@@ -71,9 +69,7 @@ The final database consists of the following relations:
 
 A menu-driven C++ application connects to MySQL through the **MySQL C API** and allows the user to execute the implemented queries interactively.
 
-For schema details, normalization, build instructions, SQL setup, and query descriptions, see:
-
-[**Project 2 README**](./Project2/README.md)
+For schema details, normalization, build instructions, SQL setup, and query descriptions, see: **Project 2 README**
 
 ---
 
