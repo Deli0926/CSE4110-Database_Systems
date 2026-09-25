@@ -1,5 +1,4 @@
 # CSE4110 / 데이터베이스시스템 / Project2
-**20201444 김민서**
 
 ## 관련 파일
 - source file: main.cpp
